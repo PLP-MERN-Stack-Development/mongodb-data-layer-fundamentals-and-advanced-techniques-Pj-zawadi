@@ -14,7 +14,7 @@ Once you have Node.js installed, run the following commands in your assignment d
 
 ```bash
 # Initialize a package.json file
-npm init -y
+
 
 # Install the MongoDB Node.js driver
 npm install mongodb
